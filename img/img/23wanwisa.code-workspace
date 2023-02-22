@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"name": "23wanwisa",
+			"path": "."
+		},
+		{
+			"name": "webapp",
+			"path": "webapp"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "23wanwisa"
+	}
+}
